@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556138408666",
+    "project_id": "reto-3-chat-e4dd5",
+    "storage_bucket": "reto-3-chat-e4dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556138408666:android:104a31ac840f839b1b93e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556138408666-63d5dalldr47q4rpc24ee4ibiognffpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyJLfLly3g19mXN8xqM-tZq9YrDf6ozqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556138408666-63d5dalldr47q4rpc24ee4ibiognffpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
